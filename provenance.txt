@@ -1,0 +1,39 @@
+Template info:
+
+Group: atomist
+Name: spring-rest-service
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: atomist-project-templates
+Repo: spring-rest-service
+Branch: master
+Path (within repo): 
+sha: f385e726292fc53c9f0334bc1ebe28cf109eb7a2
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='com.jacky'
+team-id='T1KHULA3E'
+name='x13'
+template='spring-rest-service'
+user-id='U1MH8RNJ2'
+group_id='treehorn'
+org='jackietreehornpublishing'
+version='0.0.1'
+artifact_id='x13'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='30 06 2016 '
+configuration_class_name='X13Configuration'
+package_path='com/jacky'
+base_source_path='src/main/java'
+base_test_path='src/test/java'
+containerless_web_integration_test_name='X13OutOfContainerIntegrationTests'
+application_name='X13'
+application_class_name='X13Application'
+startup_test_name='X13ApplicationTests'
+web_integration_test_name='X13WebIntegrationTests'
+creation_date='2016-06-30'
